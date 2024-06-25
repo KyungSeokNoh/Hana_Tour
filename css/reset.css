@@ -1,0 +1,9 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Yeon+Sung&display=swap');
+
+*{margin: 0; padding: 0; box-sizing: border-box;}
+ul, li, ol{ list-style: none;}
+a{text-decoration: none;color: inherit;}
+img{vertical-align: bottom;}
+table{border-collapse: collapse;}
+html, body{font-size: 14px; color: #444; font-family: "Yeon Sung", system-ui;}
